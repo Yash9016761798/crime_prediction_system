@@ -1,0 +1,8 @@
+{
+  "name": "Crime Prediction & Analysis System",
+  "description": "An AI-powered dashboard for police and administrators to monitor crime data, manage cases, and receive emergency alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
